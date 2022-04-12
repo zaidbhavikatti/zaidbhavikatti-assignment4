@@ -12,7 +12,7 @@ body{
     float: left;
     padding: 40px;
     background-image: url(bg-pattern-desktop.png);
-    background-size: cover;`
+    background-size: cover;
 }
 .right{
   float: right;
